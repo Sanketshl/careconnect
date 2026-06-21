@@ -1,0 +1,21 @@
+# CareConnect — Python dependencies
+flask
+flask-cors
+flask-jwt-extended
+flask-sqlalchemy
+flask-bcrypt
+pymysql
+python-dotenv
+apscheduler
+
+# Twilio Voice API
+twilio
+
+# Speech Recognition (STT)
+SpeechRecognition
+
+# Audio conversion MP3 → WAV (requires ffmpeg installed on system)
+pydub
+
+# HTTP requests for downloading Twilio recordings
+requests
